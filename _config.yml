@@ -5,17 +5,15 @@ highlighter:         pygments
 
 # Permalinks
 permalink:           /:title
-relative_permalinks: true
 
 # Setup
-timezone:            your timezone # eg. Asia/Kathmandu
-locale:              your locale language # eg. en_us
-name:				         site name
-title:               site title
-tagline:             'tagline'
-description:         'description'
-url:                 site url
-rss:                 rss feed url
+timezone:            America/Chicago 
+locale:              en_us
+name: 		     Mill Home
+title:               mill home
+tagline:             'Lowe Mill Homes - Now Leasing'
+description:         'Huntsville, AL - Lowe Mill neighborhood homes for lease'
+url:                 millhome.at
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
